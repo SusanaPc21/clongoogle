@@ -6,7 +6,7 @@
 Este proyecto es desarrollado para poner en práctica las habilidades obtenidas dentro del bootcamp de desarrollo frontend.
 Fue desarrollado con HTML y CSS con el uso de framework Boorstrap utilizando animaciones de bibliotecas externas.
 
-[Proyecto en linea] (https://susey21.netlify.app/)
+[Proyecto en linea] (https://clongooglesusey.netlify.app/)
 
 - Capturas de pantalla
 
